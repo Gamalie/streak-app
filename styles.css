@@ -11,6 +11,7 @@
     align-items: center;
     background-color: rgb(245, 97, 43);
     justify-content: center;
+    gap: 30px;
 }
 #add{
 
