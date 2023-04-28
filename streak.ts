@@ -20,7 +20,7 @@ class Streak{
             }
             
 
-            const streakApp = document.querySelector(".activity")
+            const streakApp = document.querySelector(".activity") as HTMLDivElement
             streakApp.innerHTML=html
         }
 
