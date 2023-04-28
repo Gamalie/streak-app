@@ -26,4 +26,4 @@ class Streak{
 
 
 }
-new Streak()
+Streak.addActivity()
