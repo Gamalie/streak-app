@@ -1,0 +1,40 @@
+{
+    "activities": [
+        {
+            "activityIcon":"<ion-icon name='logo-no-smoking'></ion-icon>",
+            "date":"28/04/2023",
+            "activit":"smoking",
+            "activityId": 1
+        },
+        {
+            "activityIcon":"<ion-icon name='logo-no-smoking'></ion-icon>",
+            "date":"28/04/2023",
+            "activit":"",
+            "activityId": 2
+        },
+        {
+            "activityIcon":"<ion-icon name='logo-no-smoking'></ion-icon>",
+            "date":"28/04/2023",
+            "activit":"Eat",
+            "activityId": 3
+        },
+        {
+            "activityIcon":"<ion-icon name='logo-no-smoking'></ion-icon>",
+            "date":"28/04/2023",
+            "activit":"sleep",
+            "activityId": 4
+        },
+        {
+            "activityIcon":"<ion-icon name='logo-no-smoking'></ion-icon>",
+            "date":"28/04/2023",
+            "activit":"Walk",
+            "activityId": 5
+        }
+    ],
+    
+        "tracked": [{
+
+        }
+    ]
+    
+}
