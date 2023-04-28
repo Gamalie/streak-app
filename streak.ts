@@ -1,4 +1,4 @@
-interface Streak{
+interface Strik{
     id:number,
     date:string,
    image: string,
@@ -9,7 +9,7 @@ class Streak{
     
     async addActivity(id:number){
         const display = await fetch("http://localhost:3000/activities")
-        const activities = await display.json() as Streak []
+        const activities = await display.json() as Strik []
         let html =''
         for(let behavior of activities){
                 html+= ` <div class="activity">
